@@ -4,7 +4,8 @@
 :root {
   /* Cor de fundo */
   --cor0: #000000;
-  --cor1: #FFFFFF;
+  --cor1: #ffffff;
+  --cor2: #ffffff72;
 
   /* Fontes */
   --fonte-h1: "Passion One", serif;
@@ -59,7 +60,7 @@ header p {
 }
 
 .fundo-white {
-  background-color: var(--cor1);
+  background-color: var(--cor2);
   padding-top: 10vh;
   padding-bottom: 10vh;
 }
