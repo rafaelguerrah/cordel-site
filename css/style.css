@@ -71,7 +71,7 @@ header p a{
 }
 
 .caixa-div {
-  width: 320px;
+  width: 350px;
   margin: 30px;
 }
 
@@ -80,12 +80,12 @@ p {
   line-height: 2em;
   padding-left: 30px;
   font-family: var(--fonte-p);
-  font-size: 1.8em;
+  font-size: 1.4em;
 }
 
 .div-beijarflor {
   background-image: url(../img/pexels-teckhengwang-117139.jpg);
-  height: 500px;
+  height: auto;
   padding: 10px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -103,7 +103,7 @@ p {
 
 .div-livro {
   background-image: url(../img/Livros\ Velhos\ Livro\ Velho\ -\ Foto\ gratuita\ no\ Pixabay.jpg);
-  height: 500px;
+  height: auto;
   padding: 10px;
   background-repeat: no-repeat;
   background-size: cover;
