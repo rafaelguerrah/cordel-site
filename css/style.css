@@ -40,6 +40,11 @@ header p {
   text-align: center;
 }
 
+header p a{
+  text-decoration: none;
+  color: var(--cor1);
+}
+
 .main-content {
   flex: 1;
 }
