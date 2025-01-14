@@ -91,12 +91,13 @@ p {
   font-family: var(--fonte-p);
   line-height: 2em;
   padding-left: 30px;
-  font-family: var(--fonte-p);
   font-size: 1.4em;
 }
- img{
-  width: 400px;
+
+ .img-responsiva{
+  width: 200px;
  }
+
 .div-beijarflor {
   background-image: url(../img/pexels-teckhengwang-117139.jpg);
   height: auto;
@@ -152,9 +153,10 @@ footer p a{
   }
 }
 @media(max-width: 768px){
-  img{
+  .img-responsiva{
     width: 200px;
-    height: 400px;
-    margin-left: 55px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
