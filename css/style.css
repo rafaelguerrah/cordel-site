@@ -72,6 +72,8 @@ a:hover{
   background-color: var(--cor2);
   padding-top: 10vh;
   padding-bottom: 10vh;
+  display: flex;
+  flex-direction: row;
 }
 
 .caixa-div {
@@ -85,6 +87,14 @@ p {
   padding-left: 30px;
   font-family: var(--fonte-p);
   font-size: 1.4em;
+}
+
+.foto-cordel{
+  background-image: url(../img/1523623.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 350px;
+  height: 500px;
 }
 
 .div-beijarflor {
